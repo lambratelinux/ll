@@ -2,7 +2,6 @@ theme: jekyll-theme-cayman
 title: Benvenuti in Lambrate Linux
 description: Distribuzione derivata da Fedora Rawhide
 Markdown: Syntax
-================
 
 <ul id="ProjectSubmenu">
     <li><a href="/projects/markdown/" title="Markdown Project Page">Main</a></li>
