@@ -4,19 +4,19 @@ description: Distribuzione derivata da Fedora Rawhide
 
 # Perchè scegliere Lambrate Linux
 
-* Massima stabilità
-* Potente gestore di pacchetti (.rpm)
+  * Massima stabilità
+  * Potente gestore di pacchetti (.rpm)
 
 # Caratteristiche
-* ISO
-   * software preinstallato
-* Dopo installazione su HD/SSD 
-* Rolling (repo Fedora Rawhide e repo RPMfusion Free-nonFree Rawhide)
-* Importante architettura del sistema, 
+  * ISO
+    * software preinstallato
+  * Dopo installazione su HD/SSD 
+  * Rolling (repo Fedora Rawhide e repo RPMfusion Free-nonFree Rawhide)
+  * Importante architettura del sistema, 
 
-  ## Da dove partire
+## Da dove partire
   
-     ### Installazione
+### Installazione
 
 Table Header 1 | Table Header 2 | Table Header 3
 -------------- | -------------- | --------------
