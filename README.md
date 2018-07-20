@@ -1,3 +1,25 @@
+# Perchè scegliere Lambrate Linux
+
+  * Massima stabilità
+  * Potente gestore di pacchetti (.rpm)
+
+# Caratteristiche
+  * ISO
+    * software preinstallato
+  * Dopo installazione su HD/SSD 
+  * Rolling (repo Fedora Rawhide e repo RPMfusion Free-nonFree Rawhide)
+  * Importante architettura del sistema, 
+
+## Da dove partire
+  
+### Installazione
+
+Table Header 1 | Table Header 2 | Table Header 3
+-------------- | -------------- | --------------
+Row 1 col 1 | Row 1 col 2 | Row 1 col 3
+Row 2 col 1 | Row 2 col 2 | Row 2 col 3
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lambratelinux/LambrateLinux/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
