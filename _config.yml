@@ -2,5 +2,21 @@ theme: jekyll-theme-cayman
 title: Benvenuti in Lambrate Linux
 description: Distribuzione derivata da Fedora Rawhide
 
+# Perchè scegliere Lambrate Linux
+Massima stabilità
+Potente gestore di pacchetti (.rpm)
+e nel loro package manager ma gli rpm comunque sono meno trovabili dei .deb e poi ho avuto problemi. 
+Dire la verità non saprei come reagisce Debian in questo casi, perché alcune cose come usare Openshot no
 
+# Caratteristiche
 
+Tutto questo al netto di preferenze personali su gestore pacchetti, architettura del sistema, software preinstallato
+
+  ## Da dove partire
+  
+     ### Installazione
+
+Table Header 1 | Table Header 2 | Table Header 3
+-------------- | -------------- | --------------
+Row 1 col 1 | Row 1 col 2 | Row 1 col 3
+Row 2 col 1 | Row 2 col 2 | Row 2 col 3
