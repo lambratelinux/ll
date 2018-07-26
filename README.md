@@ -12,7 +12,7 @@
   - Massima reperibilità e scelta
   - Potente gestore dei pacchetti (dnf/.rpm)
   
- **Architettura sistema x86_64
+ **Architettura sistema x86_64**
 
 
 # Caratteristiche di utilizzo
@@ -23,6 +23,6 @@
     oppure
  - Generazione della iso a partire da kickstart files https://github.com/lambratelinux
 
-## Lambrate Linux è consigliabile agli utenti che prediligono avere un sistema sempre aggiornato
+## Lambrate Linux è consigliabile agli utenti che prediligono avere un sistema con pacchetti sempre aggiornato alle ultimissime versioni
 
 ## Per ulteriori info: lambratelinux@gmail.com
