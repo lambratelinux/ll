@@ -1,7 +1,7 @@
 
 # Perchè scegliere Lambrate Linux
 
- **Rolling release strettamente associata ai repositories:**
+ **Rolling release strettamente associata ai repositories:
 
   - Fedora Rawhide
   - RPMfusion Free Rawhide
@@ -9,7 +9,7 @@
  
  **Pacchetti aggiornati alle ultime versioni
  
-  - Massima reperibilità
+  - Massima reperibilità e scelta
   - Potente gestore dei pacchetti (dnf/.rpm)
   
  **Architettura sistema x86_64
