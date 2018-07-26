@@ -1,13 +1,13 @@
 
 # Perchè scegliere Lambrate Linux
 
- **Rolling release strettamente associata ai repositories:
+ **Rolling release strettamente associata ai repositories:**
 
   - Fedora Rawhide
   - RPMfusion Free Rawhide
   - RPMfusion nonFree Rawhide
  
- **Pacchetti aggiornati alle ultime versioni
+ **Pacchetti aggiornati alle ultime versioni**
  
   - Massima reperibilità e scelta
   - Potente gestore dei pacchetti (dnf/.rpm)
@@ -18,11 +18,11 @@
 # Caratteristiche di utilizzo
 
  - Disponibilità di una ISO Gnome https://github.com/lambratelinux
- - Software preinstallato (anche a richiesta: lambratelinux@gmail.com)
+ - Driver di terze parti preinstallati (anche a richiesta: lambratelinux@gmail.com)
  - Facile installazione su HD/SSD (anaconda)
     oppure
  - Generazione della iso a partire da kickstart files https://github.com/lambratelinux
 
 ## Lambrate Linux è consigliabile agli utenti che prediligono avere un sistema sempre aggiornato
 
-## Per info: lambratelinux@gmail.com
+## Per ulteriori info: lambratelinux@gmail.com
