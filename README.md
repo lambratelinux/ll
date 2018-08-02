@@ -17,13 +17,13 @@
 
 # Caratteristiche di utilizzo
 
- - Disponibilità di una ISO Gnome
+ - Disponibilità di una ISO Gnome (Workstation)
  - Driver di terze parti preinstallati (anche a richiesta: lambratelinux@gmail.com)
- - Facile installazione su HD/SSD (anaconda)
+ - Facile installazione su HD/SSD (Anaconda)
  
     oppure
  
- - Generazione della ISO a partire da kickstart files [link] (https://github.com/lambratelinux)
+ - Generazione della ISO a partire da Kickstart-files [link] (https://github.com/lambratelinux)
 
 ### Lambrate Linux è consigliabile agli utenti che prediligono avere un sistema con pacchetti sempre aggiornati alle ultime versioni
 
