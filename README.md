@@ -27,7 +27,7 @@
  
 
 
-http://github.com - automatic!
+automatic!
 [GitHub](http://github.com/lambratelinux)
 
 ### Lambrate Linux è consigliabile agli utenti che prediligono avere un sistema con pacchetti sempre aggiornati alle ultime versioni
