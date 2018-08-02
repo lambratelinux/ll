@@ -23,7 +23,8 @@
  
     oppure
  
- - Generazione della ISO a partire da [Kickstart-files] (https://github.com/lambratelinux)
+ - Generazione della ISO a partire da 
+ [Kickstart-files] (https://github.com/lambratelinux)
 
 ### Lambrate Linux è consigliabile agli utenti che prediligono avere un sistema con pacchetti sempre aggiornati alle ultime versioni
 
