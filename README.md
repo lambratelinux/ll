@@ -17,7 +17,7 @@
 
 # Caratteristiche di utilizzo
 
- - [Link] https://drive.google.com/file/d/1VBtGrX4TFiuNXGGIatG_WnEVqIzuJsXJ/view?usp=sharing della ISO installabile Gnome (Workstation)
+ - [ISO] (https://drive.google.com/file/d/1VBtGrX4TFiuNXGGIatG_WnEVqIzuJsXJ/view?usp=sharing) installabile Gnome (WorkStation)
  - Driver di terze parti preinstallati (anche a richiesta: lambratelinux@gmail.com)
  - Facile installazione su HD/SSD (Anaconda)
  
